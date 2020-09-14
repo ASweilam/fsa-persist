@@ -1,5 +1,5 @@
 # fsa-persist
-Microservice that consumes FSA API and persist into database
+Microservice that consumes FSA API and persist into database. Built with Spring Boot and Hibernate.
 
 ## What is the purpose?
 This microservice consumes an API from Food Standards Agency (FSA) and does a number of processing and re-mapping of
